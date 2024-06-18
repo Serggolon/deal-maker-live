@@ -1,0 +1,15 @@
+p,
+span {
+  display: inline-block;
+}
+
+p {
+  font-size: 14px;
+  margin-left: 16px;
+}
+
+span:nth-child(1) {
+  margin-left: 8px;
+  font-size: 14px;
+  font-weight: bold;
+}

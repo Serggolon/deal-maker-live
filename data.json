@@ -1,0 +1,9 @@
+{
+    "investments": [
+      { "name": "Company A", "initialInvestment": 100000, "currentValue": 150000 },
+      { "name": "Company B", "initialInvestment": 200000, "currentValue": 250000 },
+      { "name": "Company C", "initialInvestment": 50000, "currentValue": 75000 },
+      { "name": "Company D", "initialInvestment": 150000, "currentValue": 200000 },
+      { "name": "Company E", "initialInvestment": 100000, "currentValue": 125000 }
+    ]
+  }
